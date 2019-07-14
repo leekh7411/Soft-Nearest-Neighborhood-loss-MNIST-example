@@ -1,4 +1,4 @@
-# **Soft-Nearest-Neighborhood-loss-Tensorflow-MNIST-example**
+# **Soft Nearest Neighborhood(SNN) loss MNIST example using Tensorflow**
 SNN loss on Tensorflow MNIST example which from recently announced paper *Analyzing and Improving Representations with the Soft Nearest Neighbor Loss*. This is not official.See the more details in references below. If you find some error in this code, please issue to this repository
 
 ## Tensorflow MNIST example 
